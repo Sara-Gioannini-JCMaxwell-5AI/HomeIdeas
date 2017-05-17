@@ -11,5 +11,5 @@ The site has a home page consisting of images posted by users and filters to loo
 Ho scelto di portare un sito perchè dopo la scuola mi piacerebbe lavorare sui siti web e creandone uno da zero potrei imparare cose nuove e potrebbe servirmi poi in futuro. Come tema mi sono basata sull'arredamento perchè il mio sogno sarebbe quello di diventare un'interior design perciò ho scelto di unire le due cose.
 
 # Collaboratori
-Gabriel Antohi
+Gabriel Antohi<br>
 Nicolò Mari
